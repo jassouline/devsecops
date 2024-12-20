@@ -1,0 +1,16 @@
+{
+  "version": "2.3.0",
+  "summary": {
+    "title": "API REST Threat Model",
+    "owner": "Jordan ASSOULINE",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "Jordan ASSOULINE",
+    "threatTop": 0
+  }
+}
